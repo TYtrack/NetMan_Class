@@ -1,2 +1,2 @@
-Network management course
+Network Management Course
 
